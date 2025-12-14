@@ -1,0 +1,31 @@
+# AI Horse Racing Predictor System
+
+## Overview
+Advanced machine learning system for horse racing predictions using ensemble models and real-time data analysis.
+
+## Features
+- Real-time race card analysis
+- Machine learning predictions
+- Value bet detection
+- Performance tracking
+- Betting simulation
+
+## Installation
+1. Run `setup_system.bat`
+2. Run `start_server.bat`
+3. Open http://localhost:5000
+
+## Directory Structure
+- `data/raw/`: Raw data collection
+- `data/processed/`: Processed datasets
+- `models/`: ML models and experiments
+- `logs/`: System logs
+
+## Usage
+1. Initialize AI system
+2. Load/generate race data
+3. View predictions
+4. Run simulations
+
+## Disclaimer
+For educational purposes only. No guaranteed outcomes.
