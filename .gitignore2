@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Data
+data/raw/*.json
+data/processed/*.csv
+*.pkl
+*.pickle
+
+# Models
+models/experiments/*.pkl
+models/deployment_packages/*.pkl
+
+# Logs
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+temp/
+tmp/
