@@ -1,0 +1,40 @@
+[
+  {
+    "race_id": "R0001",
+    "race_date": "2024-01-15",
+    "post_time": "14:30",
+    "track": "Churchill Downs",
+    "race_name": "Winter Classic Stakes",
+    "race_number": 5,
+    "distance": 6.0,
+    "surface": "Dirt",
+    "track_condition": "Fast",
+    "race_class": "Allowance",
+    "purse": 50000,
+    "field_size": 8,
+    "horses": [
+      {
+        "horse_id": "H000101",
+        "program_number": 1,
+        "horse_name": "Midnight Thunder 1",
+        "jockey": "John Velazquez",
+        "trainer": "Bob Baffert",
+        "age": 4,
+        "sex": "Colt",
+        "weight": 1200,
+        "morning_line_odds": 3.5,
+        "post_position": 1,
+        "past_performance": [
+          {
+            "race_date": "2023-12-01",
+            "track": "Santa Anita",
+            "distance": 6.0,
+            "finish_position": 2,
+            "speed_figure": 88,
+            "odds": 4.2
+          }
+        ]
+      }
+    ]
+  }
+]
